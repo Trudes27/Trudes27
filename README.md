@@ -2,7 +2,7 @@
 - 👀 I’m a CS/Math enthusiast, but not particularly good at either.
 - 🌱 I’m currently learning how to code in JS/HTML/CSS, C++, as well as Calculus (for math)
 - 💞️ I’m looking to collaborate on literally anything beginner-friendly.
-- 📫 CONTACT: Discord (swiftchess), Instagram (noah2047_)
+- 📫 CONTACT: Discord (_trudes_), Instagram (noah2047_)
 - 😄 Pronouns: I'm male ._.
 - ⚡ Fun fact: I like to make music too :)
 
